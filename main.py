@@ -17,6 +17,7 @@ class Teacher:
 
 
    def occupation_list(self):
+print("d")
 
 
 
